@@ -1,5 +1,6 @@
 # TicTacToe
 A simple Tic Tac Toe in C
+
 Enter: make in the console and then ./tictactoe 
 
 Tic-tac-toe (also known as noughts and crosses or Xs and Os)
